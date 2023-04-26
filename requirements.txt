@@ -1,0 +1,14 @@
+firebase
+fastapi
+pydantic
+typing
+datetime
+json_logging
+uvicorn
+firebase_admin
+google
+gunicorn
+requests
+numpy
+google-cloud-logging
+prometheus_fastapi_instrumentator
